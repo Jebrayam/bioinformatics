@@ -1,5 +1,5 @@
 # PatternCount Function
-**PatternCount(data, pattern)**: Slide a window down *data*, check whether each k-mer substring of *data* matches *pattern*.
+**PatternCount(data, pattern)**: Slides a window down *data*, checks whether each k-mer substring of *data* matches *pattern*.
 
 Pseudocode:
 
