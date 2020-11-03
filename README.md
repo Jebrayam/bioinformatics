@@ -1,2 +1,2 @@
-# bioinformatics
-code about bioinformatics
+# Bioinformatics
+This repository is about scripts related with solutions to bioinformatic problems. Each script carries on a different function in order to analyse and extract valuable information from genomic or biological data. The problems that have been take in account here come from the Coursera especialization and course respectively "Bioinformatics" and "Biology Meets Programming: Bioinformatics for Beginners" both taugth by the University of California San Diego.
