@@ -4,4 +4,5 @@
 - **ReverseComplement(pattern)**: Given a nucleotide p, we denote its complementary nucleotide as p*. The reverse complement of a string Pattern = p1 … pn is the string Patternrc = pn* … p1* formed by taking the complement of each nucleotide in Pattern, then reversing the resulting string.
 - **PatternMatching(pattern, genome)**: Finds all occurrences of a pattern in a string.
 - **ClumpFinding(genome, k-mer, L-window, t-times)**: Finds patterns forming clumps in a string.
+- **PatternToNumber(pattern)**: Transforms a k-mer into a an integer.
 
