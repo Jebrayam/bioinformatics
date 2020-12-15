@@ -6,4 +6,5 @@
 - **ClumpFinding(genome, k-mer, L-window, t-times)**: Finds patterns forming clumps in a string.
 - **PatternToNumber(pattern)**: Transforms a k-mer into an integer.
 - **NumberToPattern(index, k)**: Transforms an integer between 0 and 4^k - 1 into a k-mer. 
+- **ComputingFrequencies(Text, k)**: Generates a frequency array.
 
