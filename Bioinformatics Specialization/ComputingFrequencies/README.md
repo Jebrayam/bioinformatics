@@ -1,7 +1,8 @@
 # ComputingFrequencies function
 **ComputingFrequencies(Text, k)**: Generates a frequency array.
 
-*Pseudocode:*
+Pseudocode:
+
     ComputingFrequencies(Text, k)
         for i ← 0 to 4k − 1
             FrequencyArray(i) ← 0
