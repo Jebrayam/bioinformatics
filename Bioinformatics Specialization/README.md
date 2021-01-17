@@ -7,4 +7,4 @@
 - **PatternToNumber(pattern)**: Transforms a k-mer into an integer.
 - **NumberToPattern(index, k)**: Transforms an integer between 0 and 4^k - 1 into a k-mer. 
 - **ComputingFrequencies(Text, k)**: Generates a frequency array.
-- **SymbolArray(genome, symbol)**: Takes strings *genome* and *symbol* to return the symbol array of *genome* corresponding to *symbol*. The symbol array contains all the occurrences for a specific symbol in a genome.
+
